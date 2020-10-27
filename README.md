@@ -1,2 +1,2 @@
-# C_20
-Angry Birds Catapult3.0
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
